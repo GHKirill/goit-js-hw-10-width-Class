@@ -1,1 +1,1 @@
-# goit-js-hw-10-width-Class
+# goit-js-hw-10-with-Class
